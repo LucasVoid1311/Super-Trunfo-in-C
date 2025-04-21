@@ -139,7 +139,7 @@ int main() {
     // Comparando apenas um atributo das cartas 
     
     printf("\nComparação de cartas (Atributo: População):\n\n");
-    printf("Carta 1 - %s: %d\n", cidade1, populacao1); // Nesse momento, podemos ver 
+    printf("Carta 1 - %s: %d\n", cidade1, populacao1); // Nesse momento, podemos ver o
     printf("Carta 2 - %s: %d\n", cidade2, populacao2); // problema causado pelo "fgets"
     
     // Retornando o resultado da comparação acima utilizando o If/Else
